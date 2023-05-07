@@ -1,0 +1,11 @@
+Download Link: https://assignmentchef.com/product/solved-fictional-person
+<br>
+<p class="ui header product-top-header" title="Option #1: Basic Programming – Fictional Person Solution">Option #1: Basic Programming – Fictional Person
+
+Demonstrate understanding of basic programming concepts by:
+
+Developing pseudocode that prints the following information for a fictional person:First NameLast NameStreet AddressCityZip codeCreating a simple Java application that will print the items listed above.Assignment Deliverable Instructions:
+
+Submit only your pseudocode, source code, successful compile, and final output as detailed in point #4.Include the course, the program number, your name, and the date in your program header. Also include this information at the top of your Microsoft Word file. Include additional comments, as necessary, and maintain consistent indentation for good programming style, as shown and discussed in our text.Use the Windows Command Prompt command line interface or any Java IDE you choose to compile and execute your program.Submit the following deliverables in a single document in the order listed:A single Microsoft Word file containing a screen snapshot of your Java source code for Program1_YourName.java (just the beginnings of the source code is OK) as it appears in your IDE (e.g., Eclipse, Net Beans, JDeveloper, etc.) or editor (e.g., a Windows command line “more” of the .java file’s first screen).A listing of your entire modified version of the Java source code for Program##_YourName.java. You can simply copy and paste the text from your IDE into your submission Microsoft Word document. Make sure to maintain proper code alignment by using Courier font for this item. Do not submit the original source code files!A screen snapshot showing your program’s successful compile.A screen snapshot showing all of your program’s output.Additionally, submit a zip file containing all created .java files for your project separately from the Word document.
+
+5/5 - (1 vote)
